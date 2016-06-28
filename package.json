@@ -1,0 +1,16 @@
+{
+  "name": "test-unit-ava",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "opjlmi <opjlmi@gmail.com> (http://github.com/opjlmi)",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.15.2"
+  },
+  "dependencies": {},
+  "description": ""
+}
