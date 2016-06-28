@@ -1,6 +1,6 @@
 import test from 'ava';
 
-test.skip('foo', t => {
+test('foo', t => {
     // t.pass();
     t.fail();
 });
